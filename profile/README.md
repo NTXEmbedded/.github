@@ -1,6 +1,7 @@
 # NTXEmbedded — Repositories Index
 
 這份目錄將 NTXEmbedded 組織下的倉庫依產品線 / 主題群組化，方便瀏覽與跳轉。
+This directory groups repositories under the NTXEmbedded organization by product line and topic, making them easier to browse and navigate.
 
 ## Octolux
 - [Octolux](https://github.com/NTXEmbedded/Octolux)
@@ -21,25 +22,32 @@
 - [Octolux_Play](https://github.com/NTXEmbedded/Octolux_Play)
 - [octolux_mio_2](https://github.com/NTXEmbedded/octolux_mio_2)
 - [Octolux_Bootloader_TUSB](https://github.com/NTXEmbedded/Octolux_Bootloader_TUSB)
+- [ntx-yocto-dunfell-meta-ntx](https://github.com/NTXEmbedded/ntx-yocto-dunfell-meta-ntx)
 
-## Cobia
+## CarterHoffmann
 - [Cobia_NM](https://github.com/NTXEmbedded/Cobia_NM)
 - [Cobia_CnH](https://github.com/NTXEmbedded/Cobia_CnH)
 - [Cobia_VCNH](https://github.com/NTXEmbedded/Cobia_VCNH)
 - [Cobia_FFSV](https://github.com/NTXEmbedded/Cobia_FFSV)
 - [Cobia-FFSV-GEN](https://github.com/NTXEmbedded/Cobia-FFSV-GEN)
-- [C602](https://github.com/NTXEmbedded/C602)
+- [Pacu](https://github.com/NTXEmbedded/Pacu)
+- [Marlin](https://github.com/NTXEmbedded/Marlin)
 
-## NTX.Web & API
+## Taylor
+- [C602](https://github.com/NTXEmbedded/C602)
+- [C206Orig](https://github.com/NTXEmbedded/C206Orig)
+
+## WiFi
 - [NTX.Web.Portal](https://github.com/NTXEmbedded/NTX.Web.Portal)
 - [NTX.Web.Api](https://github.com/NTXEmbedded/NTX.Web.Api)
 - [NTX.Web.WiFi](https://github.com/NTXEmbedded/NTX.Web.WiFi)
 - [NTXEmbeddedAPI](https://github.com/NTXEmbedded/NTXEmbeddedAPI)
 - [ui-template-wifi-update](https://github.com/NTXEmbedded/ui-template-wifi-update)
-
-## NTX.QT
 - [NTX.QT.Nema](https://github.com/NTXEmbedded/NTX.QT.Nema)
 - [NTX.QT.Demo](https://github.com/NTXEmbedded/NTX.QT.Demo)
+- [WM171Libraries](https://github.com/NTXEmbedded/WM171Libraries)
+- [Pitco_5G](https://github.com/NTXEmbedded/Pitco_5G)
+
 
 ## Spada
 - [NTXSpada2E](https://github.com/NTXEmbedded/NTXSpada2E)
@@ -69,18 +77,16 @@
 - [Fizz_App](https://github.com/NTXEmbedded/Fizz_App)
 - [brix_backend](https://github.com/NTXEmbedded/brix_backend)
 
-## Libraries & Yocto
-- [WM171Libraries](https://github.com/NTXEmbedded/WM171Libraries)
-- [ntx-yocto-dunfell-meta-ntx](https://github.com/NTXEmbedded/ntx-yocto-dunfell-meta-ntx)
+## Follett
+- [TitanLegato](https://github.com/NTXEmbedded/TitanLegato)
+
+## WildGoose
+- [Gosling](https://github.com/NTXEmbedded/Gosling)
+
+## TurboChef
+- [temporary_remora](https://github.com/NTXEmbedded/temporary_remora)
 
 ## Misc / Unclassified
-- [TitanLegato](https://github.com/NTXEmbedded/TitanLegato)
-- [C206Orig](https://github.com/NTXEmbedded/C206Orig)
-- [Gosling](https://github.com/NTXEmbedded/Gosling)
 - [D](https://github.com/NTXEmbedded/D)
 - [Lacerta](https://github.com/NTXEmbedded/Lacerta)
-- [Pacu](https://github.com/NTXEmbedded/Pacu)
-- [Pitco_5G](https://github.com/NTXEmbedded/Pitco_5G)
-- [temporary_remora](https://github.com/NTXEmbedded/temporary_remora)
 - [remona_bl9](https://github.com/NTXEmbedded/remona_bl9)
-- [Marlin](https://github.com/NTXEmbedded/Marlin)
